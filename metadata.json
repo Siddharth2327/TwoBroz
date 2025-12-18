@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 2 Broz Chicken - Street Food Revolution",
+  "description": "The official website for 2 Broz Chicken, featuring a street-style menu with interactive caloric and pricing details, an about section, and contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
